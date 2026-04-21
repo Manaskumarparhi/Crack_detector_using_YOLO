@@ -41,7 +41,7 @@ Link: https://www.kaggle.com/datasets/ziya07/uav-based-crack-detection-dataset
 
 ### Step 1 — Open the notebook in Colab
 
-[![Open In Colab](https://colab.research.google.com)]
+[![Open In Colab](https://colab.research.google.com/)]
 
 ### Step 2 — Set runtime to GPU
 
