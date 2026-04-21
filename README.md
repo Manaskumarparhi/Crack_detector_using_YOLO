@@ -8,7 +8,6 @@ A deep learning system to detect cracks and structural defects in roads, buildin
 
 Upload an image, video, or connect a live drone stream to detect cracks and get real-world length measurements in mm, cm, and metres.
 
-![Detection Example](assets/demo.png)
 
 ---
 
@@ -42,7 +41,7 @@ Link: https://www.kaggle.com/datasets/ziya07/uav-based-crack-detection-dataset
 
 ### Step 1 — Open the notebook in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com)]
 
 ### Step 2 — Set runtime to GPU
 
