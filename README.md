@@ -42,9 +42,7 @@ Link: https://www.kaggle.com/datasets/ziya07/uav-based-crack-detection-dataset
 
 ### Step 1 — Open the notebook in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/crack-detection/blob/main/UAV_Crack_Detection_Training.ipynb)
-
-> Replace `YOUR_USERNAME` with your actual GitHub username.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ### Step 2 — Set runtime to GPU
 
