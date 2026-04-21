@@ -1,14 +1,3 @@
-"""
-app.py — Crack Detection Interface
-Integrates detect.py, measure_crack.py, live_detect.py into one Gradio UI.
-
-Tabs:
-  1. Single Image    — upload one image, get full measurements
-  2. Folder of Images — upload multiple images, get per-image + summary CSV
-  3. Video File      — upload video, annotated output saved
-  4. Stream URL      — RTSP / HTTP / webcam live feed
-"""
-
 import gradio as gr
 import cv2
 import numpy as np
